@@ -1,0 +1,18 @@
+# Compiled Executables
+*.exe
+*.out
+*.app
+
+# Object Files
+*.o
+*.obj
+
+# IDE Folders (Dev-C++, Code::Blocks, VS Code)
+.vscode/
+.idea/
+*.layout
+*.depend
+
+# Temporary Files
+*.tmp
+*.log
