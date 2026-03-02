@@ -165,7 +165,6 @@ MIT License — Copyright (c) 2026 Muhammad Faheem
 - 🧠 AI Engineer & Developer
 - 💻 GitHub: [@Muhammadfaheem8988](https://github.com/Muhammadfaheem8988)
 
-> Developed as part of a C++ programming portfolio.
 
 ---
 
